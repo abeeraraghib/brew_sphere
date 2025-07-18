@@ -1,10 +1,11 @@
-# flutter_application_1
+A modern Flutter-based coffee ordering application with a sleek UI and smooth experience for coffee lovers.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+✨ Features
+✔ Beautiful UI – Responsive & attractive design 📱
+✔ Coffee Selection – Choose from premium beans ☕
+✔ Cart & Checkout – Smooth ordering experience 🛒
+✔ Community & Chatbot – Share recipes & get coffee suggestions 💬
+✔ Firebase Integration – For authentication & database 🔥
 
 A few resources to get you started if this is your first Flutter project:
 
