@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "385795818514",
+    "project_id": "brewsphere-cc67e",
+    "storage_bucket": "brewsphere-cc67e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385795818514:android:a849ae4ee8af18cdc684cb",
+        "android_client_info": {
+          "package_name": "com.example.brew_sphere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385795818514-9tkfqlcn9amqe5v51ah7q9v5kiookmh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brew_sphere",
+            "certificate_hash": "4de54f17ee7522c0db1a8cc4506eed932a46cb00"
+          }
+        },
+        {
+          "client_id": "385795818514-g60pakku8ftvuvvtoree3ie2hkad43hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7KUqy61H64PS3WOhGLxlhuoZ7SZwPx8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385795818514-g60pakku8ftvuvvtoree3ie2hkad43hg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385795818514-gmficvehcajgtdem2li6j4asqj6knrje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brewSphere"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,103 @@
+{
+  "mood": [
+  "I feel sad, suggest a coffee",
+  "I feel down, suggest a coffee",
+  "Give me something for a romantic evening",
+  "I'm really tired today, suggest something",
+  "What's good when you're stressed out?",
+  "Suggest something for a happy mood",
+  "Suggest something good for rainy mood",
+  "What's a comforting coffee for a bad day?",
+  "What coffee boosts energy when feeling low?",
+  "Any calming coffee recommendations?",
+  "I'm not happy today",
+  "I'm not feeling well",
+  "I’m not in a good mood",
+  "Suggest something relaxing",
+  "What coffee is good for gloomy days?",
+  "Cheer me up with a coffee suggestion"
+],
+
+  "flavor": [
+    "I like fruity flavors",
+    "Show me something nutty",
+    "Give me bold coffee options",
+    "What's a floral coffee?",
+    "Recommend something chocolatey",
+    "Do you have a citrusy blend?",
+    "What coffees have vanilla notes?",
+    "I'm into spicy flavors, got anything?",
+    "Anything with caramel notes?",
+    "Suggest something earthy and smooth"
+  ],
+  "season": [
+    "What coffee is best for winter?",
+    "Give me a coffee for rainy season",
+    "Suggest something for summer days",
+    "What's great for spring mornings?",
+    "I want a cozy autumn brew",
+    "Any summer iced coffee ideas?",
+    "Warm drink for chilly weather?",
+    "Something light and fresh for spring?",
+    "Coffee for foggy mornings?",
+    "What's the best monsoon brew?"
+  ],
+  "fun": [
+    "Tell me a coffee joke",
+    "Make me laugh with something coffee related",
+    "Say something fun about coffee",
+    "Do you know a coffee pun?",
+    "Make me smile with coffee humor",
+    "Got a funny coffee fact?",
+    "Any coffee-themed pickup lines?",
+    "What's the funniest thing about baristas?",
+    "Tell me something silly about espresso",
+    "Entertain me with coffee wisdom"
+  ],
+  "recipe": [
+    "How to make a cappuccino?",
+    "Give me a latte recipe",
+    "What's the best way to brew a strong coffee?",
+    "Show me how to make iced coffee",
+    "Any recipe for a mocha?",
+    "How do I make a flat white?",
+    "Cold brew at home?",
+    "Espresso recipe please",
+    "How to make café au lait?",
+    "Best way to froth milk?"
+  ],
+  "greetings": [
+    "Hi CoffeeBot!",
+    "Hello there",
+    "Good morning",
+    "What's up?",
+    "Hey!",
+    "Yo!",
+    "Good to see you",
+    "Hi buddy!",
+    "Hey CoffeeBot, how's it brewing?",
+    "Sup CoffeeBot?"
+  ],
+  "generic": [
+    "Suggest a good coffee",
+    "Recommend something unique",
+    "What are your favorite coffees?",
+    "Tell me about Ethiopian Yirgacheffe",
+    "What coffee has the best rating?",
+    "Show me your top picks",
+    "Give me a coffee to impress guests",
+    "Which beans are popular these days?",
+    "What's trending in coffee?",
+    "Which is the best coffee you know?"
+  ],
+  "details": [
+    "Which coffees are dark roast?",
+    "Do you have any medium roast options?",
+    "I want a light roast coffee",
+    "Which coffee is the cheapest?",
+    "Show me budget-friendly coffee options",
+    "What’s the most expensive coffee you have?",
+    "Which coffee has the highest rating?",
+    "Show me highly rated coffees"
+  ]
+}

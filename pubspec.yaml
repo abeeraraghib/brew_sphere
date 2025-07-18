@@ -1,0 +1,66 @@
+name: firebase_p1
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  firebase_auth: ^5.6.0
+  firebase_core: ^3.14.0 
+  fluttertoast: ^8.2.10
+  cloud_firestore: ^5.6.9
+  shared_preferences: ^2.2.3
+  google_sign_in: ^6.1.5  # For Google sign-in
+  provider: ^6.1.1  # For state management
+  csv: ^6.0.0
+  logger: ^2.0.2
+  url_launcher: ^6.2.5
+  http: ^1.4.0
+  timeago: ^3.6.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.jpg"  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/1.jpg
+    - assets/images/logo.jpg
+    - assets/images/google.png
+    - assets/images/dashboard.jpg
+    - assets/images/about.jpeg
+    - assets/images/explore.jpeg
+    - assets/images/chatbot.jpg
+    - assets/coffee.json
+    - assets/images/community.jpg
+    - assets/images/order.jpg
+    - assets/images/preferences.jpg
+    - assets/images/ColombianSupremo.jpg
+    - assets/images/EthiopianYirgacheffe.jpg
+    - assets/images/GuatemalanAntigua.jpg
+    - assets/images/VietnamRobusta.png
+    - assets/images/IndiaKaapiRoyale.jpg
+    - assets/images/UgandanRobusta.jpg
+    - assets/images/PhilippineBarako.jpg
+    - assets/images/IndonesianLiberica.png
+    - assets/images/MalaysianLiberica.jpg 
+
+    
