@@ -1,3 +1,5 @@
+## Brew Sphere Mobile App
+
 A modern Flutter-based coffee ordering application with a sleek UI and smooth experience for coffee lovers.
 
 ✨ Features
@@ -7,11 +9,16 @@ A modern Flutter-based coffee ordering application with a sleek UI and smooth ex
 ✔ Community & Chatbot – Share recipes & get coffee suggestions 💬
 ✔ Firebase Integration – For authentication & database 🔥
 
-A few resources to get you started if this is your first Flutter project:
+🛠 Tech Stack
+- Frontend: Flutter (Dart)
+- Backend: Firebase (Authentication, Firestore Database)
+- Platforms: Android
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Install dependencies**
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Run the app**
+flutter run
+
+**Demo**
+
