@@ -15,10 +15,14 @@ A modern Flutter-based coffee ordering application with a sleek UI and smooth ex
 - Platforms: Android
 
 **Install dependencies**
+
 flutter pub get
 
 **Run the app**
+
 flutter run
 
 **Demo**
+
+![Coffee App Demo](assets/Demo.gif)
 
